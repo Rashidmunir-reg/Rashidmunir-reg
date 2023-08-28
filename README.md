@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rashidmunir-reg
+- 👋 Hi, I’m @Amjadkhan-reg
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on java
